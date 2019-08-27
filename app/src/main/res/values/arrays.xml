@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hero_names_array">
+        <item>Rogue</item>
+        <item>Beast</item>
+        <item>Cyclops</item>
+        <item>Jean Gray</item>
+        <item>Wolverine</item>
+    </string-array>
+</resources>

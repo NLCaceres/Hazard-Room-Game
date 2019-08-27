@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Enter the Hazard Room</string>
+    <string name="rankings">Rankings</string>
+    <string name="battle">Battle</string>
+    <string name="results">Results</string>
+    <string name="add_button">Add Hero</string>
+    <string name="hero_one">Hero #1</string>
+    <string name="hero_two">Hero #2</string>
+    <string name="fight_button">Fight!</string>
+    <string name="vs_battle_log">vs.</string>
+    <string name="uses_battle_log">uses</string>
+    <string name="wins_battle_log">wins this round using</string>
+    <string name="ties_battle_log">tie this round</string>
+    <string name="round_battle_log">======== Round</string>
+    <string name="end_round_battle_log">========</string>
+    <string name="winner_battle_log">is the winner!</string>
+    <string name="tied_battle_log">have tied!</string>
+    <string name="hero_name_entry">Hero Name</string>
+    <string name="power_entry_one">Power #1</string>
+    <string name="power_entry_two">Power #2</string>
+    <string name="save_button">Save</string>
+    <string name="win_rankings">W:</string>
+    <string name="lose_rankings">L:</string>
+    <string name="tie_rankings">T:</string>
+    <string name="delete_context_menu">Delete</string>
+</resources>
